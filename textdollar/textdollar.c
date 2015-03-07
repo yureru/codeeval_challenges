@@ -6,6 +6,7 @@
  * from: https://www.codeeval.com/open_challenges/52/
  */
 // Flags used to compile:  -Wall -pedantic -Wextra -std=c99
+// $ gcc -Wall -pedantic -Wextra -std=c99 -o textdollar textdollar.c nums.c
 #include <stdio.h>
 #include <stdlib.h>
 #include "nums.h"
