@@ -1,2 +1,3 @@
 # codeeval_challenges
-Challenges from https://www.codeeval.com/
+Dumping personal solutions of https://www.codeeval.com/ challenges.
+Profile: https://www.codeeval.com/profile/Roli/
